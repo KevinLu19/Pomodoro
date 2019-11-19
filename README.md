@@ -3,7 +3,7 @@ Pomodoro is a techinque used where there is a timer (typically 25 minutes) where
 After timer rings, take a few minutes break which then continue another pomodoro session.
 
 ## Resources used within project 
-** Python 3.7 
-  ## Modules
-   * Tkinter
-   * Pyinstaller
+* Python 3.7 
+Modules: 
+* Tkinter
+* Pyinstaller
